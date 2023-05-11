@@ -1,3 +1,28 @@
+### Crypto Karama ### 
+Crypto Karma is a simple React Web application that helps to give users information about the cryptocurrencies, their prices, its history and other information. It is made as the assignment to secure frontend web development internship at Nest Nepal.
+
+### Project Description ###
+This application provides users with information about cryptocurrency. Users can search for particular crypto currency, users can see the price history of specific crytocurrency, see the list of crypto currency based on their ranking.
+The technologies used in this application are:
+1.Ant Design 
+2.React-redux and ReduxJs/toolkit
+2.Axios
+4.Millify
+5.Moment
+6.ChartJs
+7.HTML-react-parser
+
+
+There were lots of challange while building this application, because of the time constraints, it was less that 48hours and I have to take inspiration from existing projects. StackOverflow was of great help.
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +93,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
